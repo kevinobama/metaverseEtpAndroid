@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //editText
                 EditText editText = (EditText)findViewById(R.id.editText1);
-                editText.setText("Google is your friend.", TextView.BufferType.EDITABLE);
+                editText.setText("trump.", TextView.BufferType.EDITABLE);
             }
         });
 
